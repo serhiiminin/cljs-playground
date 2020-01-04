@@ -1,6 +1,5 @@
 (ns screencast.3_data_structures)
 
-
 ;; VECTOR 
 
 (def v [1 2 3 4 5]) ;; vector
